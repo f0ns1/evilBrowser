@@ -4,6 +4,23 @@ Version 1.0
 
 #Browser 
 
+coming son ....
+
+#New architecture
+
+![evil-browser](images/EvilBrowser_project.png)
+
+	- include custom Docker, with Proxy server and annonsurf navigation
+	- allow navigate with OIT and anonymous with different tabs at the same time
+
+
+#RoadMap..
+
+Intra anonymous web usign tor proxies
+
+![evil-browser](images/IntraDeepWebConcept.png)
+
+
 custom browser with Qt and Gtk for unix version:
 
 	- Multi tab

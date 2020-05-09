@@ -11,6 +11,7 @@ RUN apt-get install -y \
         nmap \
         vim
 RUN apt install -y iptables && \
+    apt install net-tools && \
     git clone https://github.com/Und3rf10w/kali-anonsurf.git && \
     cd kali-anonsurf && ./installer.sh
 
@@ -29,7 +30,9 @@ ENV LANG es_ES.utf8
 ARG DEBIAN_FRONTEND=noninteractive
 
 USER root
+RUN git clone https://github.com/f0ns1/evilBrowser.git && \
+	chmod +x evilBrowser/script_anonymous_proxy.sh
 
+
+ENTRYPOINT ["evilBrowser/script_anonymous_proxy.sh"]
 CMD /bin/bash
-
-

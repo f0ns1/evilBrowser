@@ -2,11 +2,13 @@
 
 Version 1.0
 
-#Browser 
 
-coming son ....
 
-#New architecture
+## New architecture
+
+![evil-browser](images/Proxy_Anon_browser.png)
+
+
 
 ![evil-browser](images/EvilBrowser_project.png)
 
@@ -14,19 +16,16 @@ coming son ....
 	- allow navigate with OIT and anonymous with different tabs at the same time
 
 
-#RoadMap..
 
-Intra anonymous web usign tor proxies
-
-![evil-browser](images/IntraDeepWebConcept.png)
 
 ## Anonymous cloud proxy arround the world
 
 
-wget https://raw.githubusercontent.com/f0ns1/evilBrowser/master/Anonymous_cloud_server.sh
+	wget https://raw.githubusercontent.com/f0ns1/evilBrowser/master/Anonymous_cloud_server.sh
 
 
-- Atomation with a simple running script:
+	- Atomation with a simple running script:
+	
 	
 	./Anonymous_cloud_server.sh 
 
@@ -66,6 +65,13 @@ wget https://raw.githubusercontent.com/f0ns1/evilBrowser/master/Anonymous_cloud_
 	Anonymous contaniner Succesfully started 
 
 
+
+
+
+
+Intra anonymous web usign tor proxies
+
+![evil-browser](images/IntraDeepWebConcept.png)
 
 
 

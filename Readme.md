@@ -4,7 +4,7 @@ Version 1.0
 
 
 
-## New architecture
+## 1.0 New architecture
 
 Proxy for evilBrowser Network WorldMap:
 
@@ -20,6 +20,17 @@ Centralize Architecture on Cloud server, that know every location of evilProcies
 ![evil-browser](images/Anon_architecture.png)
 
 
+
+## 1.1 Onion Encryption Over Tor Network 
+
+EvilNetwork = Onion Encryption Architecture [Tor Network [ TCP/IP ])]
+
+![evil-browser](images/Onion_encryption_evilNetwork.png)
+
+Every Node of architecture, only know:
+	-> verify signPackage
+	-> Decrypt and obtain order
+	-> execute obtained order
 
 
 ## Anonymous cloud proxy arround the world

@@ -6,8 +6,14 @@ Version 1.0
 
 ## New architecture
 
+Proxy for evilBrowser Network WorldMap:
+
+
 ![evil-browser](images/Proxy_Anon_browser.png)
 
+
+
+All Anonymos IP, changes everiy five minutes to an other location.
 
 
 ![evil-browser](images/EvilBrowser_project.png)

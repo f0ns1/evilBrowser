@@ -15,11 +15,9 @@ Proxy for evilBrowser Network WorldMap:
 
 All Anonymos IP, changes everiy five minutes to an other location.
 
+Centralize Architecture on Cloud server, that know every location of evilProcies and browsers:  
 
-![evil-browser](images/EvilBrowser_project.png)
-
-	- include custom Docker, with Proxy server and annonsurf navigation
-	- allow navigate with OIT and anonymous with different tabs at the same time
+![evil-browser](images/Anon_architecture.png)
 
 
 
@@ -71,6 +69,13 @@ All Anonymos IP, changes everiy five minutes to an other location.
 	Anonymous contaniner Succesfully started 
 
 
+
+
+
+![evil-browser](images/EvilBrowser_project.png)
+
+	- include custom Docker, with Proxy server and annonsurf navigation
+	- allow navigate with OIT and anonymous with different tabs at the same time
 
 
 
